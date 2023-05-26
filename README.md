@@ -1,15 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Challenge de Frontend: Gestión de Pedidos con Next.js
+
+En este challenge de frontend, se te solicita desarrollar una aplicación que permita realizar las siguientes acciones relacionadas con la gestión de pedidos:
+
+1. Crear productos mediante peticiones a un endpoint.
+2. Visualizar los productos existentes.
+3. Cancelar un pedido.
+
+Para llevar a cabo este desafío, se utilizarán las siguientes tecnologías:
+
+- Next.js: Un framework de React que permite construir aplicaciones web del lado del servidor (SSR) y del lado del cliente (CSR) de manera sencilla.
+- Material-UI: Una librería de componentes de interfaz de usuario (UI) para React con estilos predefinidos y personalizables.
+- Hooks: Funciones especiales de React que permiten el uso de características como el estado y el ciclo de vida en componentes funcionales.
 
 ## Getting Started
 
-First, run the development server:
+First, install & run the development server:
 
 ```bash
+npm i 
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
