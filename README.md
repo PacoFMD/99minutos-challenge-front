@@ -14,7 +14,20 @@ Para llevar a cabo este desafío, se utilizarán las siguientes tecnologías:
 
 ## Getting Started
 
-First, install & run the development server:
+En este documento, te guiaré paso a paso sobre cómo instalar todo lo necesario para configurar un proyecto de Next.js utilizando npm. También incluiré los pasos para instalar npm en caso de que no lo tengas instalado en tu sistema.
+
+## Requisitos previos
+
+Antes de comenzar, asegúrate de tener Node.js instalado en tu sistema. Puedes verificar si tienes Node.js ejecutando el siguiente comando en tu terminal:
+
+```bash
+node -v
+```
+Si no tienes Node.js instalado, sigue los pasos de instalación según tu sistema operativo. Puedes descargar Node.js desde el sitio web oficial en https://nodejs.org.
+
+## Probemos!
+
+Una vez corroborado que contemos con npm y hayamos clonado el proyecto, procedemos a instalarlo sus dependecias dentro de la carpeta del proyecto y una vez exitoso, inciamos el servidor
 
 ```bash
 npm i 
